@@ -125,20 +125,26 @@ body {
   justify-content: center;
   align-items: center;
   background: #222;
-  background:rgba(0,0,0,0.7);
+  background:rgba(71, 34, 88, 0.6);
   color: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  /* font-family: 'Source Sans Pro', sans-serif; */
+  font-family: 'Merriweather Sans', sans-serif;
   font-weight: 300;
   font-size: 1.25em;
   line-height: 1.5em;
   border-radius: 10px;
-  padding: 0px 30px;
+  padding: 10px 30px;
   width: 300px;
   height: 300px;
 }
 
 #content p span {
-  font-family: 'Lora', sans-serif;
+  /* font-family: 'Lora', sans-serif; */
+  /* font-family: 'Merriweather', serif; */
+
+  font-family: 'Merriweather Sans', sans-serif;
+
+  font-family: 'Roboto', sans-serif;
 }
 
 
