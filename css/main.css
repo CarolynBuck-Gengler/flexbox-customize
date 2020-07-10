@@ -153,6 +153,20 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.thanks {
+    font-size: .8em;
+    color:  white;
+    text-align: center;
+}
+
+
+.thanks a:link, .thanks a:visited, .thanks a:hover, .thanks a:active {
+    color: white;
+  }
+  
+.thanks a:hover, .thanks a:active {
+    color: rgb(232, 221, 238);
+  }
 
 
 
